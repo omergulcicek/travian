@@ -8,7 +8,7 @@ Görevlerdeki ödülleri kahramanın canı azaldığında toplayıp seviye atlam
 Kahramanı ilk aşamada örümcek fare gibi güçsüz hayvanların üzerine salın, öldürmeyin.
 
 Sırasıyla üretimleri yapın, kışla kurulduktan sonra fazla kalan maddeler ile azar azar asker basın.
-2 gün içerisinde 150 paralı asker yada 225 milis köle'ye eşdeğer bir askere sahip olmak gerekiyor.
+2 gün içerisinde 20-30 askere _(en fazla 70)_ sahip olmak gerekiyor.
 Bu askerleri boş vahalara sürekli atmalıyız.
 
 - En yakın maceraya git ve atı al _(herhangi bir görev ödülü toplamayın)_
@@ -20,7 +20,7 @@ Bu askerleri boş vahalara sürekli atmalıyız.
 - Sığınak 1 seviye
 - Pazar 1 seviye
 - Elçilik 1 seviye
-- ⚔️ Kışla 3 seviye
+- ⚔️ Kışla 3 seviye _(2 gün içerisinde 20-30 askere sahip olmak gerekiyor, zamanla 70 asker)_
 - Tüm hammadde alanları 1 seviye _(ihtiyacınıza göre bazıları 2 seviye)_
 - Tüm tahıl alanları 2 seviye _(bu aşamada kahramanı 2. seviyeye getirmeliyiz)_
 - Tüm hammadde alanları 2 seviye
