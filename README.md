@@ -2,7 +2,7 @@
 
 ## Travian en hızlı 2. köy atma rehberi
 
-Not: Kahramanın tüm puanlarını savaş gücüne koy, 6. maceradan sonra Bilgelik Kitabıyla ham maddeye çevir.
+Kahramanın tüm puanlarını savaş gücüne koy, 6. maceradan sonra Bilgelik Kitabıyla ham maddeye çevir.
 Kahraman üretimi köy üretiminden daha yüksek olduğunda kahramanda 4 savaş gücü hariç tüm puanları ham madde üretimine.
 Görevlerdeki ödülleri kahramanın canı azaldığında toplayıp seviye atlamasını ve canının 100% olmasını sağla.
 Kahramanı ilk aşamada örümcek fare gibi güçsüz hayvanların üzerine salın, öldürmeyin.
@@ -20,7 +20,7 @@ Bu askerleri boş vahalara sürekli atmalıyız.
 - Sığınak 1 seviye
 - Pazar 1 seviye
 - Elçilik 1 seviye
-- Kışla 3 seviye ⚔️
+- ⚔️ Kışla 3 seviye
 - Tüm hammadde alanları 1 seviye _(ihtiyacınıza göre bazıları 2 seviye)_
 - Tüm tahıl alanları 2 seviye _(bu aşamada kahramanı 2. seviyeye getirmeliyiz)_
 - Tüm hammadde alanları 2 seviye
