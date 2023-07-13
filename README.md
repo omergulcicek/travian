@@ -31,13 +31,17 @@ Bu askerleri boş vahalara sürekli atmalıyız.
 - 🛡️ Sur 1 seviye
 - Zırh dökümanesi 1 seviye
 - 🏰 Köşk 1 seviye
-- Tüm oduncu, tuğla ve demiri 4'er seviyeye _(sırası önemli değil ama görevlerden ötürü önce bir hammadde alanının tamamını 4 seviye yaptıktan sonra diğerine geçin)_
+- Tüm oduncu, tuğla ve demiri 3'er seviyeye _(sırası önemli değil ama görevlerden ötürü önce bir hammadde alanının tamamını 3 seviye yaptıktan sonra diğerine geçin)_
 - Hammadde deposu ve tahıl ambarını 3'er seviye
 - Pazar 3 seviye
 - 🛡️ Sur 3 seviye
 - 🏠 Merkez bina 7 seviye
+- 1 tane oduncu 4 seviye
+- 1 tane tuğla 4 seviye
+- 1 tane demir 4 seviye
 - 1 sığınak 10 seviye
 - 6 sığınak 3'er seviye
+- _(Bu aşamada bir kaynak tüm hammadde alanlarını 4 seviye yap diyor, diğerinde bu bilgi yok)_
 - Zırh dökümanesi 3 seviye
 - Akademi 5 seviye
 - 🐴 Ahır 1 seviye _(bu aşamada kahraman en az 5 seviye olmalı)_
