@@ -101,3 +101,6 @@ Kışlalarınızı seviye 10’a yükseltin, savunma askerinizi 7/24 eğitin ve 
 
 Bu köyler kaynak alanlarınızı daha hızlı geliştirmek ve bu köylerden hammadde ihtiyacı duyduğunuz köyünüze hammadde akışını sağlamak için kullanılır. Bir Ticari Merkez kurabilmek için en az iki tahıl ambarı ve iki hammadde deposu, Pazar seviye 20, ahır seviye 10 gerekir. Ticari merkez, tüccarların taşıma kapasitesini her seviyede artırdığından, bu köylerden hammadde akışında zorluk çekmezsiniz.
 
+***
+
+https://www.gettertools.com/tr/
