@@ -72,3 +72,32 @@ Bu askerleri boş vahalara sürekli atmalıyız.
 - 👷🏼‍♂️ 3 tane yerleşimci/göçmen
 - 🎉 Belediyeden etkinlik düzenle
 - İkinci Köy
+
+***
+
+**Saldırı Köyü İnşa Etmek**
+
+Genel inşa planını tamamladıktan sonra bir asker köyü kurun ve kışla kurup seviye 10’a yükseltin. Irkınızın piyade askerlerini burada 7 gün 24 saat kışladaki eğitim durmayacak şekilde devam ettirmeye özen gösterin.
+
+Kışlanız eğitime başladıktan sonra ahır kurup ahırı da seviye 10’a yükseltip ırkınızın süvari askerlerini eğitmeye başlayabilirsiniz.
+
+Kışlanızın seviyesini 15’e çıkarın.
+
+Kuşatmanızı güçlendirmek için tamirhane kurup seviye 10’a yükseltin. Bu sırada mancınık gereksinimlerini yerine getirmeyi unutmayın. Tamirhanenizi 7/24 doldurduktan sonra seviye 20’ye yükseltmeye başlayabilirsiniz.
+
+Ordunuz ile bir yere saldırdığınızda hammadde ile döneceklerinden stok yapmak gerekir. Bunun için 3 tahıl ambarınız olduğundan emin olun.
+
+
+**Savunma Köyü İnşa Etmek**
+
+Bir savunma köyü kurmak daha az işlemle de olsa saldırı köyü kurmakla hemen hemen aynıdır.
+
+Kışlalarınızı seviye 10’a yükseltin, savunma askerinizi 7/24 eğitin ve kuyruğu sürekli devam ettirerek kışlalarınızı seviye 20’ye yükseltmeye devam edin.
+
+2 veya 3 tahıl ambarınız ve hammadde deponuz olsun.
+
+
+**Destek Köyleri İnşa Etmek**
+
+Bu köyler kaynak alanlarınızı daha hızlı geliştirmek ve bu köylerden hammadde ihtiyacı duyduğunuz köyünüze hammadde akışını sağlamak için kullanılır. Bir Ticari Merkez kurabilmek için en az iki tahıl ambarı ve iki hammadde deposu, Pazar seviye 20, ahır seviye 10 gerekir. Ticari merkez, tüccarların taşıma kapasitesini her seviyede artırdığından, bu köylerden hammadde akışında zorluk çekmezsiniz.
+
