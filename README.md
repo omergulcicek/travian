@@ -11,6 +11,13 @@ Sırasıyla üretimleri yapın, kışla kurulduktan sonra fazla kalan maddeler i
 2 gün içerisinde 20-30 askere _(en fazla 70)_ sahip olmak gerekiyor.
 Bu askerleri boş vahalara sürekli atmalıyız.
 
+İlk gün kahraman ile vahalara, diğer günler askerler ile vahalara.
+
+Hayvanlar çıkana kadar vahalara git. (7x7, 21x21)
+
+**İkinci köy kurulana kadar hamları 4ü geçirme, kp veren binalara ağırlık ver.**
+
+
 - En yakın maceraya git ve atı al _(herhangi bir görev ödülü toplamayın)_
 - 1 tane Demir Madeni 2 seviye
 - 🏠 Merkez bina 3 seviye
