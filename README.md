@@ -3,20 +3,15 @@
 ## Travian en hızlı 2. köy atma rehberi
 
 Kahramanın tüm puanlarını savaş gücüne koy, 6. maceradan sonra Bilgelik Kitabıyla ham maddeye çevir.
-Kahraman üretimi köy üretiminden daha yüksek olduğunda kahramanda 4 savaş gücü hariç tüm puanları ham madde üretimine.
+6. maceradan gelen kitapla kahramanda 4 savaş gücü hariç tüm puanları ham madde üretimine.
 Görevlerdeki ödülleri kahramanın canı azaldığında toplayıp seviye atlamasını ve canının 100% olmasını sağla.
-Kahramanı ilk aşamada örümcek fare gibi güçsüz hayvanların üzerine salın, öldürmeyin.
 
 Sırasıyla üretimleri yapın, kışla kurulduktan sonra fazla kalan maddeler ile azar azar asker basın.
-2 gün içerisinde 20-30 askere _(en fazla 70)_ sahip olmak gerekiyor.
-Bu askerleri boş vahalara sürekli atmalıyız.
+2 gün içerisinde 20-30 askere _(en fazla 70)_ sahip olmak ve yağma listesiyle 7x7 alanı yağmalamak gerekiyor.
 
 İlk gün kahraman ile vahalara, diğer günler askerler ile vahalara.
 
-Hayvanlar çıkana kadar vahalara git. (7x7, 21x21)
-
-**İkinci köy kurulana kadar hamları 4ü geçirme, kp veren binalara ağırlık ver.**
-
+**İkinci köy kurulana kadar hamları 4ü geçirme, kp veren binalara ağırlık ver, 7şer seviyelik sığınaklar önemli.**
 
 - En yakın maceraya git ve atı al _(herhangi bir görev ödülü toplamayın)_
 - 1 tane Demir Madeni 2 seviye
