@@ -11,7 +11,7 @@ Sırasıyla üretimleri yapın, kışla kurulduktan sonra fazla kalan maddeler i
 
 İlk gün kahraman ile vahalara, diğer günler askerler ile vahalara.
 
-**İkinci köy kurulana kadar hamları 4ü geçirme, kp veren binalara ağırlık ver, 7şer seviyelik sığınaklar önemli.**
+**İkinci köy kurulana kadar hamları 4ü geçirme, 7 seviyelik sığınaklar, elçilik, pazar yeri ve akademi yüklen.**
 
 - En yakın maceraya git ve atı al _(herhangi bir görev ödülü toplamayın)_
 - 1 tane Demir Madeni 2 seviye
